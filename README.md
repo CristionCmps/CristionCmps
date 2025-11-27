@@ -44,6 +44,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/CristionCmps/CristionCmps/output/snake.svg" alt="Snake animation" />
 
 ###
